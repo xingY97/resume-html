@@ -1,0 +1,26 @@
+
+body {
+    background-color: #FF7F50;
+     text-align: center;
+}
+p {
+    color: #0000FF;
+
+}
+.img-IronMan{
+    width: 200px;
+}
+
+.sidebar a {
+
+    display:run-in;
+    color: black;
+    padding: 10px;
+    text-decoratin: none;
+}
+
+.sidebar a.active {
+    background-color: #100;
+    color: white;
+}
+    
